@@ -12,3 +12,4 @@
 
   http://www.imparareaprogrammare.it
 */
+var temp = 0;
